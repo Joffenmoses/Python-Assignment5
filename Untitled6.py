@@ -1,8 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[17]:
-
+Assignment 1
 
 list1=[0,1,2,10,4,1,0,56,2,0,1,3,0,56,0,4]
 list2=list(list1)
@@ -20,8 +16,7 @@ list1.sort(key=zero)
 print(list1)
 
 
-# In[18]:
-
+Assignment 2(Method 1)
 
 list1=[10,20,40,60,70,80]
 list2=[5,15,25,35,45,60]
@@ -48,7 +43,7 @@ while flag:
 print(list3)
 
 
-# In[19]:
+Assignment 2(Method 2)
 
 
 list1=[10,20,40,60,70,80]
